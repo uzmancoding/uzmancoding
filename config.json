@@ -18,7 +18,7 @@
         "total_prs"
     ],
     "additional_info": "",
-    "preferred_color": "green",
+    "preferred_color": "lightgreen",
     "max_languages": 5,
     "append_automatic": true,
     "exclude_orgainzations": true
