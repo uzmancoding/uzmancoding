@@ -4,8 +4,6 @@
         "bio\n\t\t\n\t\t",
         "location",
         "company",
-        "email",
-        "hireable",
         "followers",
         "following",
         "public_repos",
@@ -19,7 +17,7 @@
         "total_issues",
         "total_prs"
     ],
-    "additional_info": "",
+    "additional_info": "でも許して でも許して　居なくなるから 殺したつもりでいて",
     "preferred_color": "lightgreen",
     "max_languages": 5,
     "append_automatic": true,
