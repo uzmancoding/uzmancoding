@@ -43,13 +43,13 @@ def return_preffered_color() -> tuple:
         "orange": (255, 165, 0),
         "pink": (255, 192, 203),
         "white": (255, 255, 255),
-        "lightblue": (173, 216, 230),
+        "lightgreen": (167, 204, 128),
     }
 
     if color in color_map:
         return color_map[color]
     else:
-        return color_map["lightblue"]
+        return color_map["lightgreen"]
 
 
 def gen_image(g: Github):
